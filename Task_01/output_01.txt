@@ -1,0 +1,13 @@
+Enter the integers:4 2 7 2 5 4 2 1
+
+--- Final Output ---
+Unique Sorted List: [1, 2, 4, 5, 7]
+Maximum Value: 7
+Minimum Value: 1
+Average Value: 3.375
+Frequency of Elements:
+4 -> 2
+2 -> 3
+7 -> 1
+5 -> 1
+1 -> 1
