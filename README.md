@@ -17,6 +17,7 @@ Data Summary & Analysis
 Tasks Included
 
 Task 1 — List & Dictionary Operations
+
 Take list input from user
 Remove duplicates
 Sort values
@@ -25,7 +26,9 @@ Maximum value
 Minimum value
 Average value
 Frequency of each element
+
 Task 2 — File Handling
+
 Read log entries from a text file
 Count occurrences of:
 INFO
@@ -33,6 +36,7 @@ ERROR
 WARNING
 Save results into JSON format
 Display most frequent log type
+
 Task 3 — Functions & Error Handling
 
 Implemented:
@@ -45,6 +49,7 @@ Handles division by zero
 Handles invalid inputs
 Returns meaningful error messages
 Includes proper docstrings
+
 Task 4 — Debugging
 
 Fixed buggy Python code involving list modification during iteration.
@@ -54,6 +59,7 @@ Topics covered:
 Why the bug occurs
 Correct solution
 Time complexity explanation
+
 Task 5 — Data Cleaning
 
 Dataset Used:
@@ -83,6 +89,7 @@ Boxplot
 All plots are saved inside:
 
 output/plots/
+
 Task 7 — Insights Report
 
 Generated a report containing:
@@ -95,6 +102,7 @@ Final conclusions
 Saved as:
 
 summary_report.txt
+
 Task 8 — Web Scraper
 
 Built a Twitter/X scraping pipeline using:
@@ -122,6 +130,7 @@ AI generated videos
 Robotics demos
 Self-driving cars
 Sports highlights
+
 Task 9 — Context Based Scraping
 
 Extended scraping pipeline to:
