@@ -1,0 +1,8 @@
+ai: AI generated videos
+ai: AI movie generation
+robotics: Robotics demos
+robotics: Humanoid robots
+sports: Sports highlights
+sports: Football skills
+semiconductor: Semiconductor manufacturing
+semiconductor: Chip fabrication
