@@ -1,0 +1,6 @@
+The bug occurs because:
+
+The list size changes during iteration.
+Elements shift positions after removal.
+Indexes generated earlier become invalid.
+Some elements are skipped and eventually an IndexError occurs.
