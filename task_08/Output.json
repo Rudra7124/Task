@@ -1,0 +1,11 @@
+{
+    "username": "@OpenAI",
+    "tweet_text": "New AI generated video model released...",
+    "tweet_link": "https://nitter.net/OpenAI/status/123456",
+    "media_url": "https://nitter.net/pic/media.jpg",
+    "timestamp": "May 20, 2026",
+    "replies": "120",
+    "reposts": "500",
+    "likes": "2.5K",
+    "downloaded_media": "output/media/media.jpg"
+}
