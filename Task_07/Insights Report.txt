@@ -1,0 +1,21 @@
+Trends and Observations:
+Most users spend around 6–10 hours daily on screens.
+Higher focus sessions and deep work hours improve productivity.
+Higher stress, burnout risk, and emotional exhaustion reduce productivity.
+Productivity decreases slightly for users with extremely high screen time.
+Stress levels are moderately distributed among users.
+
+Possible Issues in the Dataset:
+Some columns had missing values and were filled using mean/mode methods.
+Label encoding converts categories into numbers, which may not represent actual relationships.
+The dataset is very large (5 million rows), causing:
+high memory usage,
+crowded visualizations,
+slower processing.
+Scatter plots contain overlapping points, making patterns harder to see.
+
+Key Conclusions:
+Balanced digital usage improves productivity.
+Deep work and concentration positively affect performance.
+Excessive screen time and burnout negatively impact efficiency.
+Mental health factors play an important role in workplace productivity.
