@@ -13,54 +13,6 @@ Twitter/X Web Scraping
 Context-Based Video Scraping
 Data Summary & Analysis
 
-Project Structure
-project/
-│
-├── data/
-│   ├── logs.txt
-│   ├── digital_burnout_productivity_dataset.csv
-│   └── cleaned_dataset.csv
-│
-├── output/
-│   ├── log_summary.json
-│   ├── tweets.csv
-│   ├── tweets.json
-│   ├── summary_report.txt
-│   └── plots/
-│       ├── histogram.png
-│       ├── scatterplot.png
-│       ├── heatmap.png
-│       ├── bar_chart.png
-│       ├── boxplot.png
-│       ├── keyword_frequency.png
-│       └── videos_collected.png
-│
-├── scraper/
-│   ├── scraper.py
-│   ├── downloader.py
-│   ├── utils.py
-│   └── keywords.txt
-│
-├── videos/
-│   ├── ai/
-│   ├── robotics/
-│   ├── sports/
-│   └── semiconductor/
-│
-├── tasks/
-│   ├── task1.py
-│   ├── task2.py
-│   ├── task3.py
-│   ├── task4.py
-│   ├── task5.py
-│   ├── task6.py
-│   ├── task7.py
-│   ├── task8.py
-│   ├── task9.py
-│   └── task10.py
-│
-├── requirements.txt
-└── README.md
 
 Tasks Included
 Task 1 — List & Dictionary Operations
@@ -181,11 +133,12 @@ Save categorized videos
 
 Example:
 
-videos/
-├── robotics/
-├── ai/
-├── sports/
-└── semiconductor/
+videos
+── robotics
+── ai
+── sports
+── semiconductor
+
 Task 10 — Data Summary & Analysis
 
 Generated:
